@@ -1,0 +1,25 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
+## Thurston Tran
+
+![Veerpal Kaur](../images/vee339.jpeg)
+
+Hi, my name is Veerpal Kaur. I am an aspiring web developer. I am doing Ontario Graduation Certification in Web Development at Humber Polytechnic.
+
+Portfolio:
+Github:[Veerpal Kaur](https:/github.com/Vee339)
+LinkedIn: [Veerpal Kaur](https://www.linkedin.com/in/veerpal-kaur-3b162a211/)
+
+### Projects
+
+| Project |                                                          |
+| ------- | -------------------------------------------------------- |
+| Task    | [https://tasks.brickmmo.com](https://tasks.brickmmo.com) |
+
+[&#10132; Back to Class List](/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
