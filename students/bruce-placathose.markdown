@@ -15,7 +15,7 @@ GitHub: [Bruce-Placathose](https://github.com/Bruce-Placathose/)
 | - | - |
 | Branching inclass project | [brickmmo-branching-contribution](https://github.com/codeadamca/github-demo-branching) |
 
-[&#10132; Back to Class List](../)
+[&#10132; Back to Class List](/students)
 
 ---
 
