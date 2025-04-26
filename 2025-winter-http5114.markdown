@@ -25,7 +25,7 @@
 | ![Samuel Owusu](images/SamuelNii32.jpg)                | Samuel Owusu.         | [SamuelNii32](students/SamuelNii32).               |
 | ![Saahil Sayed](images/Saahil306.jpg)                  | Saahil Sayed.         | [Saahil306](student/Saahil306)                     |
 | ![Pallavi Kandikanti](images/Pallavikandikanti846.jpg) | Pallavi Kandikanti    | [Pallavikandikanti](students/Pallavikandikanti846) |
-
+| ![Yaqoob Zahoor Ahmed](images/yzahmed.jpg)             | Yaqoob Zahoor Ahmed   | [Yaqoob Zahoor Ahmed](students/yzahmed) |
 
 | ![Ragini Shirwalkar](images/raginishirwalkar.jpg) | Ragini Shirwalkar | [raginis19](students/raginis19) |
 
