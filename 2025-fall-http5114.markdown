@@ -5,8 +5,9 @@
 ### Students
 
 |                                                    | Name                   | Profile                                             |
-| ![Peter Slempers](images/PeterPic80x80.png) | Peter Slempers | [pslempers.github.io](https://pslempers.github.io/) |
-
+| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Adam Thoma](images/codeadamca.png)               | Adam Thomas            | [codeadam](faculty/codeadamca)                      |
+| ![Adam Thoma](images/warren_chanansingh_student.png)               | Warren Chanansingh            | [zabocaman](student/zabocaman.markdown)                      |
 
 ### Faculty
 
