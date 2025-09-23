@@ -6,6 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Massimo Cubello](images/mc-image.jpg)            | Massimo Cubello        | [MassimoCubello](students/massimocubello.markdown)
 
 
 ### Faculty
