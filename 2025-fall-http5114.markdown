@@ -6,7 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![Camilo Martinez](images/camilomartinezrincon.jpg)| Camilo Martinez        | [codeadam](students/codeadamca)                     |
+| ![Camilo Martinez](images/camilomartinezrincon.jpg)| Camilo Martinez        | [camilomartinezrincon](students/camilomartinezrincon.markdown)                     |
 
 ### Faculty
 
