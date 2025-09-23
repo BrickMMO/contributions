@@ -10,8 +10,8 @@ Peter's [Markdown Portfolio](https://pslempers.github.io/)
 
 ### Projects
 
-| Projects |
-| -------- | ------------------------------------------------|
+| Projects | Description |
+| -------- | -------- |
 | BrickJam | I got second place in the Fall 2025 BrickJam!   |
 
 [&#10132; Back to Class List](/)
