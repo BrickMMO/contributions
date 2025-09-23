@@ -1,5 +1,6 @@
 # Peter's Page
 
+[pslempers.png](/images/pslempers.png)
 
 I'm Peter. I make code and this is my page in BrickMMO!
 
