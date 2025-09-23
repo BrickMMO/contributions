@@ -17,6 +17,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Santiago Cepeda](images/scepeday.png) | Santiago Cepeda | [scepeday](students/scepeday) |
 
 [&#10132; Back to Class List](/)
 
