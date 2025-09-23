@@ -6,7 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![Adam Thoma](images/codeadamca.png)               | Adam Thomas            | [codeadam](faculty/codeadamca)                      |
+| ![Camilo Martinez](images/camilomartinezrincon.jpg)| Camilo Martinez        | [codeadam](students/codeadamca)                     |
 
 ### Faculty
 
