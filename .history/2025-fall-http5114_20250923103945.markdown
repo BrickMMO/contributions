@@ -8,7 +8,7 @@
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
 | ![Massimo Cubello](images/mc-image.jpg)            | Massimo Cubello        | [MassimoCubello](students/massimocubello.markdown)  |
 | ![Peter Slempers](images/PeterPic80x80.png)        | Peter Slempers.        | [pslempers.github.io](https://pslempers.github.io/) |
-| ![Shallu](images/shalluca-10.jpeg)                 | Shallu.                | [shallu.github.io](https://github.com/ShalluCa10)
+| ![Shallu](immages/shalluca-10.jpg)                 | 
 
 
 ### Faculty
