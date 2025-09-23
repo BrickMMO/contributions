@@ -6,6 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![David Henry](image/dfhenry.jpg)                  | David Henry            | [DFHenry](students/dfhenry.markdown)                |
 
 
 ### Faculty
