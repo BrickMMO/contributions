@@ -2,7 +2,7 @@
 
 ## Massimo Cubello
 
-![Massimo Cubello's Profile](../images/mc-image.jpg)
+![Massimo Cubello's Profile](../images/massimocubello.jpg)
 
 Student at Humber College learning Web Development.
 
