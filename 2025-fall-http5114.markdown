@@ -6,7 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![Adam Thoma](images/codeadamca.png)               | Adam Thomas            | [codeadam](faculty/codeadamca)                      |
+
 
 ### Faculty
 
