@@ -4,10 +4,10 @@
 
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
-
+|                                                             | Name                   |            Profile                                      |
+| ----------------------------------------------------------  | ---------------------- | ------------------------------------------------------- |
+| ![Vigneswaran Saravanan](/images/vigneswaran-saravanan.png) | Vigneswaran Saravanan  | [Vigneswaran Saravanan](/students/vigneswaran-saravanan)|
+ 
 ### Faculty
 
 |                                       | Name        | Profile                          |
