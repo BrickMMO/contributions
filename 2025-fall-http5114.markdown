@@ -6,6 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Jessica Abad](images/abadJessica.png)            | Jessica Abad           | [abadJessica](students/abadJessica.markdown) |
 
 
 ### Faculty
