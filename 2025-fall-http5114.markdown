@@ -6,6 +6,7 @@
 
 |                                                     | Name                   | Profile                                             |
 | --------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Massimo Cubello](images/massimocubello.jpg)       | Massimo Cubello        | [MassimoCubello](students/massimocubello.markdown)  |
 | ![Jessica Abad](images/abadJessica.png)             | Jessica Abad           | [abadJessica](students/abadJessica.markdown)        |
 | ![David Henry](images/dfhenry.jpg)                  | David Henry            | [DFHenry](students/dfhenry.markdown)                |
 | ![Camilo Martinez](images/camilomartinezrincon.jpg) | Camilo Martinez        | [codeadam](students/codeadamca)                     |
@@ -17,7 +18,6 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-| ![Santiago Cepeda](images/scepeday.png) | Santiago Cepeda | [scepeday](students/scepeday) |
 
 [&#10132; Back to Class List](/)
 
