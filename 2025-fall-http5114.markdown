@@ -4,11 +4,16 @@
 
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![Massimo Cubello](images/mc-image.jpg)            | Massimo Cubello        | [MassimoCubello](students/massimocubello.markdown)  |
-| ![Peter Slempers](images/PeterPic80x80.png)        | Peter Slempers.        | [pslempers.github.io](https://pslempers.github.io/) |
-| ![Shallu](images/shalluca-10.jpeg)                 | Shallu.                | [shallu.github.io](https://github.com/ShalluCa10)
+|                                                     | Name                   | Profile                                             |
+| --------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Massimo Cubello](images/massimocubello.jpg)       | Massimo Cubello        | [MassimoCubello](students/massimocubello.markdown)  |
+| ![Jessica Abad](images/abadJessica.png)             | Jessica Abad           | [abadJessica](students/abadJessica.markdown)        |
+| ![David Henry](images/dfhenry.jpg)                  | David Henry            | [DFHenry](students/dfhenry.markdown)                |
+| ![Camilo Martinez](images/camilomartinezrincon.jpg) | Camilo Martinez        | [codeadam](students/codeadamca)                     |
+| ![Peter Slempers](images/PeterPic80x80.png)         | Peter Slempers         | [pslempers.github.io](https://pslempers.github.io/) |
+| ![Massimo Cubello](images/mc-image.jpg)             | Massimo Cubello        | [MassimoCubello](students/massimocubello.markdown)  |
+| ![Shallu](images/shalluca-10.jpeg)                  | Shallu.                | [shallu.github.io](https://github.com/ShalluCa10).  |
+
 
 
 ### Faculty
