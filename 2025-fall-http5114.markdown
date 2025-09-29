@@ -17,6 +17,7 @@
 | ![Massimo Cubello](images/mc-image.jpg)                     | Massimo Cubello        | [MassimoCubello](students/massimocubello.markdown)             |
 | ![Peter Slempers](images/pslempers.png)                     | Peter Slempers.        | [pslempers](/students/pslempers.markdown)                      |
 | ![Jiya John](images/jiya-john.jpg)                          | Jiya John              | [jiya-john](students/jiya-john)                                |
+| ![Santiago Cepeda](images/scepeday.jpg)                     | Santiago Cepeda        | [scepeday](students/scepeday)                                  |
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
