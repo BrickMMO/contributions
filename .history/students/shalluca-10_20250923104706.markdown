@@ -1,0 +1,27 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
+## Shallu
+
+![Shallu](../images/shalluca-10.jpeg)
+
+Aspiring Full-stack developer. Passionate about coding and solve problems.
+
+Portfolio: [Tasks: ](https://shallusameera10.github.io/shallu_portfolio/)  
+LinkedIn: [My Linkedin: ](https://www.linkedin.com/in/shallu-aa5b85280/)
+GitHub: [My Github: ](https://github.com/ShalluCa10)  
+
+### Projects
+
+| Project |
+| ------| ------------------------------------------------------------- |
+| Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)    |
+| Flow | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/)|
+| Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)   |
+
+[&#10132; Back to Class List](/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
