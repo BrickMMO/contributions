@@ -21,6 +21,8 @@
 | ![Shallu](images/shalluca-10.jpeg)                           | Shallu                 | [shallu.github.io](https://github.com/ShalluCa10)              |
 | ![Warren Chanansingh](images/warren_chanansingh_student.png) | Warren Chanansingh     | [zabocaman](student/zabocaman.markdown)                        |                
 | ![Yassine Elamri](images/yassine.jpg)                        | Yassine Elamri         | [yassine-elamri](students/yassine)                             |
+| ![Dana Le](images/danaishere.png)                            | Dana Le                | [danaishere](students/danaishere) |
+
 
 ### Faculty
 
