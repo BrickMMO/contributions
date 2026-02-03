@@ -6,7 +6,7 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Spencer Dowie](images/spencerdowie.jpg)                  | Spencer Dowie           | [spencerdowie](students/spencerdowie.md)                   |
+| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [spencerdowie](students/spencerdowie)              |
 
 
 ### Faculty
