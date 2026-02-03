@@ -6,7 +6,7 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [Spencer](students/spencer.md)                     |
+| ![Jursida Hima](./images/Jursida%20Hima.jpg)              | Jursida Hima         | [Jursida ](/students/jursidahima.markdown)                     |
 
 
 ### Faculty
