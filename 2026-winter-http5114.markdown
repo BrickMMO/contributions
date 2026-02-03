@@ -15,6 +15,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Megha Kamalan](images/meghakamalan.jpg) | Megha Kamalan | [codeadamca](students/codeadamca) |
 
 
 [&#10132; Back to Class List](/)
