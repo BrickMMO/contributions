@@ -3,7 +3,7 @@
 ## Voranzov
 
 
-![Voranzov]![images](https://avatars.githubusercontent.com/u/55907019?v=4)
+![Voranzov]![images](/images/students/voranzovv.jpg)
 
 ### Contact Information
 github.com/voranzovv
