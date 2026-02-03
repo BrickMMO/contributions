@@ -11,9 +11,10 @@
 
 ### Faculty
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+|                                                   | Name               | Profile                           |
+| ------------------------------------------------- | ------------------ | --------------------------------  |
+| ![Adam Thomas](images/codeadamca.png)             | Adam Thomas        | [codeadamca](faculty/codeadamca)  |
+| ![KantimaPinthong](images/emmey-kantima.jpg)      | Kantima Pinthong   | [codeadamca](students/codeadamca) |
 
 
 [&#10132; Back to Class List](/)
