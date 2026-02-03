@@ -6,8 +6,7 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| https://codeadam.ca                                    | Rinzin            | rinzin.com                                         |
-| ![](images/realrinzin.jpg) | Rinzin | [rinzin](students/realrinzin) |
+| ![Rinzin](images/realrinzin.jpg) | Rinzin | [rinzin](students/realrinzin) |
 
 ### Faculty
 
