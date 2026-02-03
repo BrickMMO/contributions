@@ -6,7 +6,9 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Rinzin](images/realrinzin.jpg) | Rinzin | [rinzin](students/realrinzin) |
+| ![Rinzin](images/realrinzin.jpg)                       | Rinzin                | [rinzin](students/realrinzin)                      |
+| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [spencerdowie](students/spencerdowie.md)           |
+| ![Joseph Bonachea](images/joeybonachea.jpg)            | Joseph Bonachea       | [joeybonachea](students/joey-bonachea.md)          |
 
 ### Faculty
 
