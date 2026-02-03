@@ -8,7 +8,7 @@
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
 | ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [spencerdowie](students/spencerdowie)              |
 | ![Joseph Bonachea](images/joeybonachea.jpg)            | Joseph Bonachea       | [joeybonachea](students/joey-bonachea.md)          |
-
+| ![Rinzin](images/realrinzin.jpg)                       | Rinzin                | [rinzin](students/realrinzin)                      |         |
 
 ### Faculty
 
