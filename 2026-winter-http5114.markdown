@@ -6,8 +6,8 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| https://codeadam.ca                                    | Adam Thomas           | codeadamca                                         |
-| ![Adam Thomas](images/realrinzin.jpg) | Adam Thomas | [rinzin](students/realrinzin) |
+| https://codeadam.ca                                    | Rinzin            | rinzin.com                                         |
+| ![](images/realrinzin.jpg) | Rinzin | [rinzin](students/realrinzin) |
 
 ### Faculty
 
