@@ -6,8 +6,7 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| https://codeadam.ca                                    | Adam Thomas           | codeadamca                                         |
-
+| ![Taranpreet Kaur](images/taran487.png) | Taranpreet Kaur    | [codeadamca](students/codeadamca) |
 
 ### Faculty
 
