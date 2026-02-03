@@ -2,7 +2,7 @@
 
 ## Spencer Dowie
 
-![Spencer Dowie](../images/spencerd.jpg)
+![Spencer Dowie](../images/spencerdowie.jpg)
 
 Game and web developer
 
