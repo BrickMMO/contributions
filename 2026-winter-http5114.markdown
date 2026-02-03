@@ -6,7 +6,7 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| https://codeadam.ca                                    | Adam Thomas           | codeadamca                                         |
+| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [Spencer](students/spencer.md)                     |
 
 
 ### Faculty
