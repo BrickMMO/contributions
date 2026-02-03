@@ -6,7 +6,9 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Spencer Dowie](images/spencerdowie.jpg)                  | Spencer Dowie           | [spencerdowie](students/spencerdowie.md)                   |
+| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [spencerdowie](students/spencerdowie.md)           |
+| ![Joseph Bonachea](images/joeybonachea.jpg)            | Joseph Bonachea       | [joeybonachea](students/joey-bonachea.md)          |
+| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [Spencer](students/spencer.md)                     |
 
 
 ### Faculty
