@@ -6,7 +6,7 @@
 
 Game and web developer
 
-Github: [spencerdowie](https://github.com/spencerdowie)
+Github: [spencerdowie](https://github.com/spencerdowie)  
 LinkedIn: [Spencer Dowie](https://www.linkedin.com/in/spencer-dowie/)
 
 ### Projects

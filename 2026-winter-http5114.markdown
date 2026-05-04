@@ -6,8 +6,13 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Jursida Hima](./images/Jursida%20Hima.jpg)              | Jursida Hima         | [Jursida ](/students/jursidahima.markdown)                     |
-
+| ![Jursida Hima](./images/Jursida%20Hima.jpg)           | Jursida Hima          | [Jursida ](/students/jursidahima.markdown)         |
+| ![Taranpreet Kaur](images/taran487.png).               | Taranpreet Kaur       | [codeadamca](students/codeadamca)                  |
+| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [spencerdowie](students/spencerdowie)              |
+| ![Joseph Bonachea](images/joeybonachea.jpg)            | Joseph Bonachea       | [joeybonachea](students/joey-bonachea.md)          |
+| ![Rinzin](images/realrinzin.jpg)                       | Rinzin                | [rinzin](students/realrinzin)                      |
+| ![Voranzov](images/voranzovv.png)                      | Voranzov.             | [voranzovv](students/voranzovv)                    |
+| ![Megha Kamalan](images/meghakamalan.jpg)              | Megha Kamalan         |                                                    |
 
 ### Faculty
 
