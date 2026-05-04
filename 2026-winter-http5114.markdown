@@ -6,16 +6,17 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
+| ![Taranpreet Kaur](images/taran487.png).               | Taranpreet Kaur       | [codeadamca](students/codeadamca)                  |
 | ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [spencerdowie](students/spencerdowie)              |
 | ![Joseph Bonachea](images/joeybonachea.jpg)            | Joseph Bonachea       | [joeybonachea](students/joey-bonachea.md)          |
-| ![Rinzin](images/realrinzin.jpg)                       | Rinzin                | [rinzin](students/realrinzin)                      |         |
+| ![Rinzin](images/realrinzin.jpg)                       | Rinzin                | [rinzin](students/realrinzin)                      |
+| ![Voranzov](images/voranzovv.png)                      | Voranzov.             | [voranzovv](students/voranzovv)                    |
 
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-| ![Voranzov](images/voranzovv.png) | Voranzov | [voranzovv](students/voranzovv) |
 
 
 [&#10132; Back to Class List](/)

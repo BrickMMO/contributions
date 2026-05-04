@@ -2,14 +2,14 @@
 
 ## Taranpreet Kaur
 
-![Taranpreet Kaur](../images/taran.png)
+![Taranpreet Kaur](../images/taran487.png)
 
 Web Devewlopment student at HUMBER college 2026 winter student
 
 
-[LinkedIn](https://www.linkedin.com/feed/)
-[GitHub](https://github.com/Taran487)
-[Portfolio](https://taran487.github.io/markdown-portfolio/)
+- [LinkedIn](https://www.linkedin.com/feed/)
+- [GitHub](https://github.com/Taran487)
+- [Portfolio](https://taran487.github.io/markdown-portfolio/)
 
 ### Projects
 
