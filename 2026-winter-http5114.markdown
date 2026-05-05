@@ -13,6 +13,7 @@
 | ![Rinzin](images/realrinzin.jpg)                       | Rinzin                | [rinzin](students/realrinzin)                      |
 | ![Voranzov](images/voranzovv.png)                      | Voranzov.             | [voranzovv](students/voranzovv)                    |
 | ![Megha Kamalan](images/meghakamalan.jpg)              | Megha Kamalan         |                                                    |
+| ![Ravi Kumar](images/RaviKalia.jpg)              | Ravi Kumar         |       [RaviKumar](students/raviKumar)                                                |
 
 ### Faculty
 
